@@ -1,0 +1,11 @@
+# Node.js
+node_modules/
+.env
+build/
+dist/
+npm-debug.log
+.yarn/
+
+# General
+.DS_Store
+*.log
