@@ -8,7 +8,7 @@
 
 ## 🎥 Demostración
 
-<img src="https://github.com/SergiusYT/Proyectos-Programacion-II/raw/main/Proyectos-Programacion-II/ContenidoMultimedia/Demostracion.gif" alt="Demostración del proyecto" style="border-radius: 10px; width: 100%; max-width: 700px;">
+<img src="https://github.com/SergiusYT/Proyectos-Programacion-II/raw/main/Proyectos-Programacion-II/ContenidoMultimedia/Demostracion.gif" alt="Demostración del proyecto" style="border-radius: 10px; width: 100%; max-width: 900px;">
 
 ---
 
