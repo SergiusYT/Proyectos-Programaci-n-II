@@ -59,9 +59,11 @@ Fue desarrollado como parte de un proceso de aprendizaje web con diferentes tecn
 ## Comentarios
 
 > Un proyecto con potencial real y una base sólida para escalar a producción.
+> Fue un proyecto donde probe cosas nuevas y fue por motivos de total aprendizaje.
+> Esta muy incompleto pero se puede reaunudar el darrollo de este
 
 ---
 
 ## Estructura del proyecto
 
-Este proyecto esta desarrollado en dos proyectos, uno con el frontend y el otro backend, esto lo hice para separar estas dos partes manejando una estructura mas adecuada.
+Este proyecto esta desarrollado en dos proyectos, uno con el frontend y el otro backend, esto lo hice para separar estas dos partes manejando una estructura más adecuada.
