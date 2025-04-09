@@ -2,7 +2,7 @@
 
 <p align="center"><strong>Aplicativo de compras</strong> desarrollado como prototipo utilizando:</p>
 
-<p align="center"><i>React • Spring Boot • Hibernate • Java • CSS • Node.js</i></p>
+<p align="center"><i>React • Spring Boot • Hibernate • Java • CSS • Node.js • MySQL</i></p>
 
 ---
 
