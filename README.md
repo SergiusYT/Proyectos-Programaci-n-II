@@ -36,7 +36,7 @@
 
 ## Descripción
 
-Este proyecto es un **prototipo funcional** de un aplicativo de compras.  
+Este proyecto es un **prototipo medio funcional** de un aplicativo de compras.  
 Fue desarrollado como parte de un proceso de aprendizaje web con diferentes tecnologías modernas.
 
 > *Actualmente no está finalizado, pero tiene gran potencial para futuras mejoras y actualizaciones.*
@@ -45,10 +45,14 @@ Fue desarrollado como parte de un proceso de aprendizaje web con diferentes tecn
 
 ## Posibles mejoras
 
-- [ ] Autenticación de usuarios
-- [ ] Sistema de pagos
-- [ ] Panel de administración
-- [ ] Conexión a base de datos en la nube
+- 🔒 Autenticación de usuarios
+- 💸 Sistema de pagos
+- 🔍 Panel de administración
+- 👤 Manejo de perfiles
+- 🛍️ Publicación de productos
+- ⚙️ Configuración de perfiles.
+- 📋 Auditoria.
+- 😑 etc...
 
 ---
 
@@ -60,3 +64,4 @@ Fue desarrollado como parte de un proceso de aprendizaje web con diferentes tecn
 
 ## Estructura del proyecto
 
+Este proyecto esta desarrollado en dos proyectos, uno con el frontend y el otro backend, esto lo hice para separar estas dos partes manejando una estructura mas adecuada.
