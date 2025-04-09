@@ -9,7 +9,7 @@
 ## Demostración
 
 <p align="center">
-  <img src="https://github.com/SergiusYT/Proyectos-Programacion-II/raw/main/Proyectos-Programacion-II/ContenidoMultimedia/Demostracion.gif" alt="Demostración del proyecto" width="80%" style="border-radius: 10px;">
+  <img src="https://github.com/SergiusYT/Proyectos-Programacion-II/raw/main/Proyectos-Programacion-II/ContenidoMultimedia/Demostracion.gif" alt="Demostración del proyecto" width="50%" style="border-radius: 10px;">
 </p>
 
 ---
